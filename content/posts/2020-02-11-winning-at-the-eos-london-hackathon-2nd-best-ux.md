@@ -8,7 +8,7 @@ description: >-
   It's not every day that I find myself in front of a crowd~700 strong, plus
   however many thousands tuned in via a YouTube livestream. We won Best UX and
   2nd Place overall!
-category: Hackathon Win
+category: Hackathons
 tags:
   - Hackathon
   - EOS
@@ -27,9 +27,7 @@ Our first indication that something special might be happening was when we were 
 
 The 1st place winner was a team of two who built a reputation and identity verification protocol. Their pitch was flawless and the announcer proclaimed that they won with the most unanimous decision of the entire hackathon series. The 3d place winner built an identity passport with which the user can control who has access.
 
-![](https://cdn-images-1.medium.com/max/1600/1*DM24aJFzs5Ttdvvhqr1T6w.jpeg)
-
-From left to right: Ashe Oro, Danielle Diamond, Anette Wilms, Patricia Parkinson, and Daniel Liebeskind (me)
+![Winning Chestnut team](https://cdn-images-1.medium.com/max/1600/1*DM24aJFzs5Ttdvvhqr1T6w.jpeg "From left to right: Ashe Oro, Danielle Diamond, Anette Wilms, Patricia Parkinson, and Daniel Liebeskind (me)")
 
 Our fantastic team came together earlier this year when we all happened to be living in Bali and bonded over our shared love of blockchain. I loved every minute of working with them!
 
@@ -39,9 +37,7 @@ We at [Team Chestnut](https://www.chestnutaccounts.com/) believe that widespread
 
 Unlike the current banking system, Chestnut Accounts enable a user to cut out the intermediary (bank) and use a smart contract to **set their own** preferences, including **daily spending limits**, **blacklisted/whitelisted accounts**, and time-based **transaction limits**.
 
-![](https://cdn-images-1.medium.com/max/1600/1*XRU1qzf0dv4miZv6w4D2zw.png)
-
-The dashboard of our winning Chestnut hackathon project
+![Chestnut dashboard](https://cdn-images-1.medium.com/max/1600/1*XRU1qzf0dv4miZv6w4D2zw.png "The dashboard of our winning Chestnut hackathon project")
 
 A Chestnut Account is a [multi-sig](https://en.wikipedia.org/wiki/Multisignature) account, which means multiple signatures are required for any transaction to occur. The owner of the account controls one of those signatures and a Chestnut Smart Contract owns the other signature. Whenever a transaction occurs, Chestnut compares the transaction against the predefined user thresholds and signs the transaction if it aligns with the user preference, but doesn’t sign if it falls outside of the acceptable parameters.
 
@@ -57,9 +53,7 @@ If you’ve ever been to a hackathon, you probably experienced all-night coding 
 
 EOS hackathons are nothing like that. It was held in the London Science Museum and we were on the antique airplane floor. We were literally surrounded by massive airplanes in every shape and color. It was beautiful and inspiring. The food was gourmet and they served espresso. They even had an entire floor dedicated to sleeping, which was full of bean bags. The provided swag was also impressive and included a Patagonia sweater, portable battery charger, Moleskine, and toiletries.
 
-![](https://cdn-images-1.medium.com/max/1600/1*npI78vSKTF_6_o8DAEP7Fg.jpeg)
-
-EOS creator Dan Larimer talking to some participants with an antique airplane in the background
+![Dan Larimer talking to participants](https://cdn-images-1.medium.com/max/1600/1*npI78vSKTF_6_o8DAEP7Fg.jpeg "EOS creator Dan Larimer talking to some participants with an antique airplane in the background")
 
 During the hackathon, they held breakout sessions for smart contract development, for frontend development, for design, and for pitching. There were also countless mentors specializing in development, design, and business. The mentors were a fantastic resource, especially for developers who were building on EOS for the first time. It was easy to flag them down and there was also a hotline via Slack where you could request a mentor to your table. Having this quantity of experts available during a hackathon is incredibly unique and is probably the most valuable element of the entire event. We also collaborated with other teams to refine our idea/product, exchange technical know-how and practice our pitch.
 
