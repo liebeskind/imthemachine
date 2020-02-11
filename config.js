@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: "/",
   title: "Blog by Daniel Liebeskind",
   subtitle: "I build products and think about things.",
-  copyright: "© Daniel Liebeskind.",
+  copyright: "",
   disqusShortname: "",
   postsPerPage: 4,
   googleAnalyticsId: "UA-158179399-1",
@@ -14,11 +14,11 @@ module.exports = {
     {
       label: "Articles",
       path: "/"
-    },
-    {
-      label: "My projects",
-      path: "/pages/projects"
     }
+    // {
+    //   label: "My projects",
+    //   path: "/pages/projects"
+    // }
     // {
     //   label: "About me",
     //   path: "/pages/about"
