@@ -14,11 +14,11 @@ module.exports = {
     {
       label: "Articles",
       path: "/"
+    },
+    {
+      label: "My projects",
+      path: "/pages/projects"
     }
-    // {
-    //   label: "My projects",
-    //   path: "/pages/projects"
-    // }
     // {
     //   label: "About me",
     //   path: "/pages/about"
