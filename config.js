@@ -1,49 +1,54 @@
-'use strict';
+"use strict";
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
-  disqusShortname: '',
+  url: "https://imthemachine.io/",
+  pathPrefix: "/",
+  title: "Blog by Daniel Liebeskind",
+  subtitle: "I build products and think about things.",
+  copyright: "© Daniel Liebeskind.",
+  disqusShortname: "",
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: "UA-158179399-1",
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
-      path: '/'
+      label: "Articles",
+      path: "/"
     },
     {
-      label: 'About me',
-      path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: "My projects",
+      path: "/pages/projects"
     }
+    // {
+    //   label: "About me",
+    //   path: "/pages/about"
+    // },
+    // {
+    //   label: "Contact me",
+    //   path: "/pages/contacts"
+    // }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: "Daniel Liebeskind",
+    photo: "/photo.jpg",
+    bio:
+      "Chief Product Officer at Everipedia, Software conjurer, fan of Bitcoin Lightning apps",
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '',
-      vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
+      email: "daniel@getdecrypted.com",
+      facebook: "",
+      telegram: "exploremagic",
+      twitter: "dliebeskind",
+      github: "liebeskind",
+      rss: "",
+      vkontakte: "",
+      linkedin: "dliebeskind",
+      instagram: "exploremagic",
+      line: "",
+      gitlab: "",
+      weibo: "",
+      codepen: "",
+      youtube: "",
+      soundcloud: ""
     }
   }
 };
