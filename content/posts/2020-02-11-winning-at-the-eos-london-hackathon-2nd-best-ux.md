@@ -5,9 +5,14 @@ slug: winning-at-the-eos-london-hackathon
 draft: false
 date: 2018-10-23T17:08:31.747Z
 description: >-
-  It's not every day that I find myself in front of a crowd~700 strong, plus
-  however many thousands tuned in via a YouTube livestream. We won Best UX and
-  2nd Place overall!
+  It’s not every day that I find myself in front of a crowd~700 strong, plus
+  however many thousands tuned in via a YouTube live stream. A group of 3 judges
+  would decide which of the ~450 participants across ~90 teams would make it
+  into the top 10 and present on the main stage. Our first indication that
+  something special might be happening was when we were called back on stage to
+  accept the superlative award for Best UX. Shortly thereafter, we won 2nd Place
+  Overall and a chance to compete in the Grand Finale in South Africa in
+  December. What a rush!
 category: Hackathons
 tags:
   - Hackathon
