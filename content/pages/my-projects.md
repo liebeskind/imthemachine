@@ -2,7 +2,7 @@
 template: page
 title: Daniel's Projects
 slug: projects
-draft: true
+draft: false
 ---
 <h2><a href="https://everipedia.org" style="color: black;">Everipedia</a></h2>
 
