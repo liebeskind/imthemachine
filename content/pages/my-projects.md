@@ -12,7 +12,7 @@ I am the Chief Product Officer and lead frontend engineer.  Everipedia is built 
 
 <h2><a href="https://docs.google.com/document/d/1Gp4nM23Y6trkew7t0Y1jsi-69wQFCiVv7rYC4PmaFQQ/edit?usp=sharing" style="color: black;">KizmetChain</a></h2>
 
-Though never publicly deployed, KizmetChain was an Ethereum crowdfunding platform I built in 2018.  This is the whitepaper.
+Though never publicly deployed, KizmetChain was an Ethereum crowdfunding and governance platform I built in 2018.  This is the whitepaper.
 
 <h2><a href="https://itunes.apple.com/us/app/dragons-of-destiny/id1030065958" style="color: black;">Dragons of Destiny</a></h2>
 
