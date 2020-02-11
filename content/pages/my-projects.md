@@ -1,7 +1,7 @@
 ---
 template: page
 title: My Projects
-slug: my-projects
+slug: projects
 draft: true
 ---
 [Everipedia](https://everipedia.org)
